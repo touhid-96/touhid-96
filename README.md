@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm MD. Touhidul Islam</h1>
+<h1 align="center">Hello 👋, I'm MD. Touhidul Islam</h1>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Full+Stack+Developer+%26+SQA;Engineer+from+Bangladesh."
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Software+Developer+%26+Software;Quality+Assurance+Engineer+from+Bangladesh."
         alt="Typing SVG" />
 </a>
 
@@ -13,11 +13,11 @@
         alt="touhid-96" />
 </p>
 
-- 🔭 I'm currently working on **Full stack development, manual and automation testing**
+- 🔭 I'm currently working on **Software development, manual and automation testing**
 
 - 📫 All of my projects are available at [https://github.com/touhid-96?tab=repositories](https://github.com/touhid-96?tab=repositories)
 
-- 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
 
 <h3 align="center">
     Connect with me:
