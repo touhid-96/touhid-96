@@ -33,7 +33,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
             alt="touhid-96" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/touhid-96" target="blank">
+    <a href="https://www.linkedin.com/in/touhidul-islam-81b192231" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="touhid-96" height="30" width="40" />
@@ -44,14 +44,6 @@
     Languages and Tools:
 </h3>
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
-    </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> 
@@ -60,29 +52,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
             alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg"
-            alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-            alt="bootstrap" width="40" height="40" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -96,31 +68,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
             alt="css3" width="40" height="40" />
     </a>
-    <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://go.dev" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" />
-    </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
             alt="androidstudio" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
-            alt="ionic" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/touhid-96/touhid-96/blob/main/resources/postgres.png"
-            alt="postgres" width="80" height="40" />
     </a>
     <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank" rel="noreferrer">
         <img src="https://github.com/touhid-96/touhid-96/blob/main/resources/mssql.jpg"
