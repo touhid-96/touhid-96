@@ -109,7 +109,7 @@
     </a>
 </p>
 
-<details>
+<details open>
     <summary>
         <strong>
             <h3>
