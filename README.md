@@ -61,11 +61,11 @@
             alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        <img src="https://github.com/touhid-96/touhid-96/blob/main/resources/css-3.png"
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+        <img src="https://laravel.com/img/logotype.min.svg"
             alt="css3" width="40" height="40" />
     </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -73,12 +73,12 @@
             alt="androidstudio" width="40" height="40" />
     </a>
     <a href="https://www.tutorialspoint.com/ms_sql_server/index.htm" target="_blank" rel="noreferrer">
-        <img src="https://github.com/touhid-96/touhid-96/blob/main/resources/mssql.jpg"
-            alt="mssql" width="80" height="40" />
+        <img src="https://github.com/touhid-96/touhid-96/blob/main/resources/ms-sql.jpg"
+            alt="mssql" width="50" height="50" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/touhid-96/touhid-96/blob/main/resources/mysql.png"
-            alt="mysql" width="120" height="40" />
+        <img src="https://github.com/touhid-96/touhid-96/blob/main/resources/mysql.jpg"
+            alt="mysql" width="50" height="50" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
@@ -103,9 +103,6 @@
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
             alt="cypress" width="40" height="40" />
-    </a>
-    <a href="https://helpx.adobe.com/xd" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="figma" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
